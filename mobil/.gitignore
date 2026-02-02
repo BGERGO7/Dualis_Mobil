@@ -1,0 +1,23 @@
+# React Native
+.expo/
+.expo-shared/
+
+# Metro / Watchman
+.metro-health-check*
+
+# iOS
+ios/build/
+ios/Pods/
+ios/*.xcworkspace
+ios/*.xcuserstate
+ios/.xcode.env.local
+
+# Android
+android/build/
+android/.gradle/
+android/app/build/
+android/local.properties
+
+# Native crash & debug
+*.hprof
+
